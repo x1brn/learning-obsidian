@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "구성.md",
+                "file": "4단계 - 설정 확인하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "구성.md",
+                "file": "4단계 - 설정 확인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "구성.md",
+                "file": "4단계 - 설정 확인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "구성.md"
+                "file": "4단계 - 설정 확인하기.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "17ceb3305aac5d46",
   "lastOpenFiles": [
+    "구성.md",
+    "README.md",
     "4단계 - 설정 확인하기.md",
     "3단계 - 노트 삭제하기.md",
     "2단계 - 노트 이동하기.md",
@@ -175,7 +177,6 @@
     "여기는 루트",
     "여기는 루트",
     "0단계 - 환영합니다.md",
-    "구성.md",
     "여기는 루트",
     "여기는 루트/여기는 루트 아님",
     "여기는 루트/여기는 루트 아님",
